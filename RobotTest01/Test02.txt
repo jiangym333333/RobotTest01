@@ -1,0 +1,4 @@
+*** Test Cases ***
+test01
+    Log    this is test01
+    Log    this is a new test
