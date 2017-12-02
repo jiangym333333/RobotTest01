@@ -1,3 +1,7 @@
 *** Test Cases ***
 test01
     Log    HelloWorld
+    Log    new task
+
+test02
+    Log    task01
